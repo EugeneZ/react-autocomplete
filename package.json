@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.12.2"
+    "react": "0.12.x"
   },
   "devDependencies": {
     "jsx-loader": "^0.12.2",
